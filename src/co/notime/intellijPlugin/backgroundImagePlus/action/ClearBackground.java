@@ -7,10 +7,6 @@ import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.AnActionEvent;
 import com.intellij.openapi.wm.impl.IdeBackgroundUtil;
 
-/**
- * Author: Lachlan Krautz
- * Date:   22/07/16
- */
 public class ClearBackground extends AnAction {
 
     public void actionPerformed(AnActionEvent e) {
