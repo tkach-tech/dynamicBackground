@@ -1,6 +1,6 @@
 ### Settings
 
-Settings -> Appearance & Behaviour -> Background Image Plus  
+Settings -> Appearance & Behaviour -> Dynamic Background
 - Backgrounds: folder (recursive) to pull random background images from
 - Change every: Set interval to change background every x minutes
 
