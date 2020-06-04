@@ -5,10 +5,6 @@ import com.intellij.ide.util.PropertiesComponent;
 import com.intellij.openapi.wm.impl.IdeBackgroundUtil;
 import java.io.File;
 
-/**
- * Author: Allan de Queiroz
- * Date:   07/05/17
- */
 public class RandomBackgroundTask implements Runnable {
 
     private ImagesHandler imagesHandler;

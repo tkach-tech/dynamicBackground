@@ -7,10 +7,6 @@ import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.AnActionEvent;
 import co.notime.intellijPlugin.backgroundImagePlus.RandomBackgroundTask;
 
-/**
- * Author: Lachlan Krautz
- * Date:   21/07/16
- */
 public class RandomBackground extends AnAction {
 
     public RandomBackground() {

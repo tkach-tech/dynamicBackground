@@ -8,10 +8,6 @@ import java.util.concurrent.RejectedExecutionException;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Author: Lachlan Krautz
- * Date:   22/07/16
- */
 public class BackgroundService {
 
     private static ScheduledExecutorService service = null;

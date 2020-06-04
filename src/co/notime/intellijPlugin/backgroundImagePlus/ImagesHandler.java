@@ -6,10 +6,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-/**
- * Author: Allan de Queiroz
- * Date:   07/05/17
- */
 class ImagesHandler {
 
     private MimetypesFileTypeMap typeMap;

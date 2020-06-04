@@ -14,10 +14,6 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.io.File;
 
-/**
- * Author: Lachlan Krautz
- * Date:   22/07/16
- */
 public class Settings implements Configurable {
 
     public static final String FOLDER = "BackgroundImagesFolder";
