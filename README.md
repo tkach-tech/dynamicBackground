@@ -1,6 +1,3 @@
-# Background Image Plus
-Set background random background images in Intellij editor.
-
 ### Settings
 
 Settings -> Appearance & Behaviour -> Background Image Plus  
